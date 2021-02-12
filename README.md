@@ -4,6 +4,8 @@
 Given two yaml files, Yamldiff tells you which keys present in the first file
 are not present in the second.
 
+Another
+
 ## Installation
 
 Add this line to your application's Gemfile:
